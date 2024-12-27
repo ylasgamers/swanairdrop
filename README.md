@@ -1,9 +1,8 @@
 # Airdrop Swan Chain Helper Claim
-# Usage :
+# Usage : [Make Sure Already Install Python 3.10 & Requirements Below Before Run/Use!!!]
 ```
 python airdropswanclaim.py or python3 airdropswanclaim.py
 ```
-- Make Sure Already Install Python 3.10 & Requirements Below Before Run/Use!!!
 - Recomended Using Python 3.10
 - For Windows [Download Here](https://www.python.org/downloads/release/python-3100/) [Scrool Down]
 - Maybe For Windows 10 Or Higher You Can Install Python 3.10 From Microsoft Store
